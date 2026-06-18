@@ -3,4 +3,7 @@ This Image Processings project Focuces to design and evaluate deep learning mode
 
 # Dataset Link
 Dataset link - https://www.robots.ox.ac.uk/~vgg/data/pets/ 
+
+Thi Oxford-IIIT Pet Dataset contains 37 categories of cats and dogs with roughly 200 images per class. Each image is annotated with class labels, species information, and pixel-level segmentation masks. The dataset is widely used for image classification, object detection, and semantic segmentation tasks in computer vision.
+
 Note - There may be alternate mirrors to download the data. You are allowed to use them. 
